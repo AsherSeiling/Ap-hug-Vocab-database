@@ -6,7 +6,7 @@ let words = new Array();
 
 // Load deffinition.txt into an array
 let definition = new Array();
-    $.get("deffinitions.txt", function(data){
+    $.get("definitions.txt", function(data){
             definition = data.split("\n");
     });
 
