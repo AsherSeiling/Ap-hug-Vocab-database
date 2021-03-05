@@ -22,7 +22,7 @@ finished_word = []
 
 for i in definitions_indexed:
     finished_word.append(words_sorted[i])
-    finished_def.append(dffinitions[i])
+    finished_def.append(definitions[i])
 
 for i in finished_word:
     print(i)

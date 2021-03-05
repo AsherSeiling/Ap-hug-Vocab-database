@@ -17,6 +17,7 @@ anocracy
 apartheid
 aquaculture
 arithmeticdensity
+asher
 assimilation
 asylumseeker
 atheism
@@ -94,6 +95,7 @@ culture
 custom
 dairyfarm
 decolonization
+demilitarizedzone
 democracy
 democratization
 demographictransition
@@ -130,6 +132,7 @@ enclosuremovement
 environmentaldeterminism
 epidemiologictransition
 epidemiology
+ethan
 ethniccleansing
 ethnicenclave
 ethnicity
@@ -210,6 +213,7 @@ intraregionalmigration
 isogloss
 isolatedlanguage
 just-in-timedelivery
+korea
 labor-intensiveindustry
 landlockedstate
 language
@@ -228,6 +232,7 @@ longitude
 map
 mapscale
 maquiladora
+maritimeboundary
 marketarea
 mashup
 maternalmortalityrate
@@ -251,11 +256,13 @@ morphology
 multi-ethnicstate
 multi-nationalstate
 multiplenucleimodel
+nafta
 nation
 nation-state
 nationalism
 nationality
 nato
+naturalboundaries
 naturalincreaserate
 neocolonialism
 netmigration
@@ -338,6 +345,7 @@ right-to-worklaw
 rimlandtheory
 rushhour
 sanitarylandfill
+satellitestate
 sawah
 scale
 secondarysector
@@ -370,6 +378,7 @@ structuraladjustmentprogram
 subdialect
 subsistenceagriculture
 suburb
+supernationalism
 sustainability
 sustainabledevelopment
 sustainabledevelopmentgoals
@@ -408,12 +417,3 @@ vulgarlatin
 wetrice
 zeropopulationgrowth
 zoningordinance
-satellitestate
-demilitarizedzone
-maritimeboundary
-supernationalism
-korea
-naturalboundaries
-nafta
-asher
-ethan

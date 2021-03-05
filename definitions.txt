@@ -17,6 +17,7 @@ A country that is not fully democratic or fully autocratic but rather displays a
 Laws (no longer in effect) in South Africa that physically separated different races into different geographic areas.
 The cultivation of seafood under controlled conditions.
 The total number of people divided by the total land area.
+The sexiest nerd alive.
 The process by which a group’s cultural features are altered to resemble those of another more dominant group.
 Someone who has migrated to another country in the hope of being recognized as a refugee.
 The belief that God does not exist.
@@ -94,6 +95,7 @@ The body of customary beliefs, social forms, and material traits that together c
 The frequent repetition of an act, to the extent that it becomes characteristic of the group of people performing the act.
 A form of commercial agriculture that specializes in the production of milk and other dairy products.
 The action of changing from colonial to independent status.
+An area, often on a border between military factions, in which military forces and operations are prohibited.
 A country in which citizens elect leaders and can run for office.
 The introduction of a democratic system or democratic principles.
 The process of change in a society’s population from a condition of high crude birth and death rates and low rate of natural increase to a condition of low crude birth and death rates, low rate of natural increase, and higher total population.
@@ -130,6 +132,7 @@ The process of consolidating small landholdings into a smaller number of larger 
 A nineteenth- and early twentiethcentury approach to the study of geography which argued that the general laws sought by human geographers could be found in the physical sciences. Geography was therefore the study of how the physical environment caused human activities.
 The process of change in the distinctive causes of death in each stage of the demographic transition.
 The branch of medical science concerned with the incidence, distribution, and control of diseases that are prevalent among a population at a special time and are produced by some special causes not generally present in the affected locality.
+The sexist Texecan alive that also probobly is showing this to a girl.
 A purposeful policy designed by one ethnic or religious group to remove by violent and terror-inspiring means the civilian population of another ethnic or religious group from certain geographic areas.
 A place with a high concentration of an ethnic group that is distinct from those in the surrounding area.
 Identity with a group of people who share the cultural traditions of a particular homeland or hearth.
@@ -210,6 +213,7 @@ Permanent movement within one region of a country.
 A boundary that separates regions in which different language usages predominate.
 A language that is unrelated to any other languages and therefore not attached to any language family.
 Shipment of parts and materials to arrive at a factory moments before they are needed.
+Korea is a region in East Asia. Since 1945 it has been divided into two sovereign states.
 An industry for which labor costs comprise a high percentage of total expenses.
 A state that does not have a direct outlet to the sea.
 A system of communication through the use of speech, a collection of sounds understood by a group of people to have the same meaning.
@@ -228,6 +232,7 @@ The numbering system used to indicate the location of meridians drawn on a globe
 A two-dimensional, or flat, representation of Earth’s surface or a portion of it.
 The relationship between the size of an object on a map and the size of the actual feature on Earth’s surface.
 A factory built by a U.S. company in Mexico near the U.S. border, to take advantage of the much lower labor costs in Mexico.
+Maritime Boundaries. a conceptual means of division of the water surface of the planet into maritime areas that are defined through surrounding physical geography or by human geography.
 The area surrounding a central place from which people are attracted to use the place’s goods and services (also known as hinterland).
 A map that overlays data from one source on top of a map provided by a mapping service.
 The annual number of female deaths per 100,000 live births from any cause related to or aggravated by pregnancy or its management (excluding accidental or incidental causes).
@@ -251,11 +256,13 @@ The relationship between a states size or shape & its political situation.
 A state that contains more than one ethnicity.
 A state that contains two or more ethnic groups with traditions of self-determination that agree to coexist peacefully by recognizing each other as distinct nationalities.
 A model of the internal structure of cities in which social groups are arranged around a collection of nodes of activities.
+The North American Free Trade Agreement was an agreement signed by Canada, Mexico, and the United States that created a trilateral trade bloc in North America.
 Culturally defined group of people with a shared past and common future who relate to a territory and government.
 A state whose territory corresponds to that occupied by a particular ethnicity.
 Loyalty and devotion to a particular nationality.
 Identity with a group of people who share legal attachment to a particular country.
 The North Atlantic Treaty Organization, also called the North Atlantic Alliance, is an intergovernmental military alliance between 30 European and North American countries.
+A natural border is a border between states or their subdivisions which is concomitant with natural formations such as rivers or mountain ranges.
 The percentage growth of a population in a year, computed as the crude birth rate minus the crude death rate.
 The control of less-developed countries by developed countries through indirect means.
 The difference between the level of immigration and the level of emigration.
@@ -338,6 +345,7 @@ A U.S. law that prevents a union and a company from negotiating a contract that 
 Argued that sea power is more powerful and important than land power, developed by Nicholas Spykman.
 The four consecutive 15-minute periods in the morning and evening with the heaviest volumes of traffic.
 A place to deposit solid waste, where a layer of earth is bulldozed over garbage each day to reduce emissions of gases and odors from the decaying trash, to minimize fires, and to discourage vermin.
+A satellite state is a country that is formally independent in the world, but under heavy political, economic and military influence or control from another country.
 A flooded field for growing rice.
 Generally, the relationship between the portion of Earth being studied and Earth as a whole.
 The portion of the economy concerned with manufacturing useful products through processing, transforming, and assembling raw materials.
@@ -370,6 +378,7 @@ Economic policies imposed on less developed countries by international agencies 
 A subdivision of a dialect.
 Agriculture designed primarily to provide food for direct consumption by the farmer and the farmer’s family.
 A residential or commercial area situated within an urban area but outside the central city.
+An extreme or fanatical loyalty or devotion to a nation.
 The use of Earth’s renewable and nonrenewable natural resources in ways that do not constrain resource use in the future.
 Development that meets the needs of the present without compromising the ability of future generations to meet their own needs.
 Seventeen goals adopted by the U.N. in 2015 to reduce disparities between developed and developing countries by 2030.
@@ -408,12 +417,3 @@ A form of Latin used in daily conversation by ancient Romans, as opposed to the 
 Rice planted on dry land in a nursery and then moved to a deliberately flooded field to promote growth.
 A decline of the total fertility rate to the point where the natural increase rate equals zero.
 A law that limits the permitted uses of land and maximum density of development in a community.
-A satellite state is a country that is formally independent in the world, but under heavy political, economic and military influence or control from another country.
-An area, often on a border between military factions, in which military forces and operations are prohibited.
-Maritime Boundaries. a conceptual means of division of the water surface of the planet into maritime areas that are defined through surrounding physical geography or by human geography.
-An extreme or fanatical loyalty or devotion to a nation.
-Korea is a region in East Asia. Since 1945 it has been divided into two sovereign states.
-A natural border is a border between states or their subdivisions which is concomitant with natural formations such as rivers or mountain ranges.
-The North American Free Trade Agreement was an agreement signed by Canada, Mexico, and the United States that created a trilateral trade bloc in North America.
-The sexiest nerd alive.
-The sexist Texecan alive that also probobly is showing this to a girl.
