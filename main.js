@@ -44,9 +44,9 @@ function main(){
     // Adds the definition and the term to the ouput
     // Check stacking
     let template = term + " - " + definition[index1];
-    let char_out = "<p>" + template  + "</p>";
+    let char_out = "<p style=\"font-family: 'Times New Roman', Times, serif;\">" + template  + "</p>";
     if (dark_mode == true){
-        char_out = "<p style=\"color: white;\">" + template + "</p>";
+        char_out = "<p style=\"color: white; font-family: 'Times New Roman', Times, serif;\">" + template + "</p>";
     }
     if (stacking == false){
         output = char_out;
