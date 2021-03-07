@@ -437,14 +437,33 @@ plantdomestication
 terracedfarming
 slashandburnagriculture
 desertification
-
-
-
-
-
-
-
-
-
-
-
+intercropping
+springwheat
+vonthuunen’smodel
+sustaninable
+truckfarms
+humanecology
+supplychain
+organicfood
+cultivate
+enclosureacts
+factoryfarm
+huntingandgatheringsociety
+extensiveagriculture
+animaldomestication
+irrigation 
+deforestation 
+crops
+agribusiness 
+agricultural hearths
+commodity chain
+greenbelt
+subsidy
+Mediterranean agriculture
+aquifers
+export
+monoculture
+overgrazing
+bid rent curve
+dairy farming
+market gardening 
