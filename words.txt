@@ -422,10 +422,21 @@ primaryeconomy
 carryingcapacity
 winterwheat
 grazing
-
-
-
-
+suitcasefarmers
+columbianexchange 
+staplecrop
+luxurycrops
+growingseason
+mixedcropandlivestock
+biotechnology
+concentratedanimalfeedingorganization
+communitysupportedagriculture
+nomadicherders
+intensiveagriculture
+plantdomestication
+terracedfarming
+slashandburnagriculture
+desertification
 
 
 
