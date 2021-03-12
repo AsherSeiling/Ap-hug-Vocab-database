@@ -2,7 +2,7 @@
 let words = new Array();
     $.get("words.txt", function(data){
             words = data.split("\n");
-        });
+    });
 
 // Load deffinition.txt into an array
 let definition = new Array();
