@@ -455,15 +455,15 @@ irrigation
 deforestation 
 crops
 agribusiness 
-agricultural hearths
-commodity chain
+agriculturalhearths
+commoditychain
 greenbelt
 subsidy
-Mediterranean agriculture
+mediterraneanagriculture
 aquifers
 export
 monoculture
 overgrazing
-bid rent curve
-dairy farming
-market gardening
+bidrentcurve
+dairyfarming
+marketgardening

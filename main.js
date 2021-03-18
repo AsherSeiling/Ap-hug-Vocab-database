@@ -74,36 +74,3 @@ function copy_text() {
     document.execCommand("copy");
     document.body.removeChild(dummy);
 }
-
-// Function toggled on dark mode toggle
-function toggle_dark_mode(){
-    if (dark_mode == false){
-        $("#background").css("background-color", "rgb(50, 50, 50)");
-        $("p").css("color", "white");
-        $("h1").css("color", "white");
-        $("#red").css("color", "red");
-        dark_mode = true;
-    }
-    else{
-        $("#background").css("background-color", "white");
-        $("p").css("color", "black");
-        $("h1").css("color", "black");
-        $("#red").css("color", "red");
-        dark_mode = false;
-    }
-};
-
-function check_toggle(){
-    if (dark_mode == false){
-        $("#background").css("background-color", "white");
-        $("p").css("color", "black");
-        $("h1").css("color", "black");
-        $("#red").css("color", "red");
-    }
-    else{
-        $("#background").css("background-color", "rgb(50, 50, 50)");
-        $("p").css("color", "white");
-        $("h1").css("color", "white");
-        $("#red").css("color", "red");
-    };
-};
