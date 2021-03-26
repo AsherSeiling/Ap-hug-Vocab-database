@@ -7,24 +7,6 @@
     <title>Help Page</title>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 </head>
-<script>
-    // Function toggled on dark mode
-    let dark_mode = false;
-    function toggle_dark_mode(){
-        if (dark_mode == false){
-            $("#background").css("background-color", "rgb(50, 50, 50)");
-            $("p").css("color", "white");
-            $("h1").css("color", "white");
-            dark_mode = true;
-        }
-        else{
-            $("#background").css("background-color", "white");
-            $("p").css("color", "black");
-            $("h1").css("color", "black");
-            dark_mode = false;
-        };
-    };
-</script>
 <style>
     *{
         font-family: Arial, Helvetica, sans-serif;

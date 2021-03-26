@@ -45,9 +45,6 @@ function main(){
     // Check stacking
     let template = term + " - " + definition[index1];
     let char_out = "<p style=\"font-family: 'Times New Roman', Times, serif;\">" + template  + "</p>";
-    if (dark_mode == true){
-        char_out = "<p style=\"color: white; font-family: 'Times New Roman', Times, serif;\">" + template + "</p>";
-    }
     if (stacking == false){
         output = char_out;
         output_buffer = template;
