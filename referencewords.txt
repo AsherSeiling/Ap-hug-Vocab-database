@@ -1,40 +1,71 @@
-comparative advantage
-core-periphery model
-gnp per capita
-gdp per capita
-ni per capita
-gender gap
-gender empowerment measure
-rostow’s model
-modernization model
-wallerstein’s theory
-dependency model
-semiperiphery
-ngos
-ldc
-mdc
-quaternary sector
-transnational corp
-international monetary fund
-world bank
-world trade organization
-fordism
-assembly line
-post-fordist
-multiplier effect
-ancillary activities
-agglomeration economies
-cottage industries
-maquiladoras
-least-cost theory
-break of bulk point
-energy-oriented industry
-footloose industry
-off-shoring
-trading blocs
-brown fields
-rust belt
-technopole
-export processing zone
-spin-off effects
-backwash effects
+Ecumene: permanently settled portion of Earth’s surface. 
+Urban: cities with high concentrations of people. 
+Rural: farms and villages with low concentrations of people. 
+Settlement: A permanent collection of buildings and inhabitants. 
+Urbanization: An increase in the percentage of and the number of people living in urban settlements. 
+Suburbanization: Movement of upper and middle-class people from urban core areas to the surrounding outskirts to escape pollution as well as deteriorating social conditions (perceived and actual). In North America, the process began in the early nineteenth century and became a mass phenomenon by the second half of the twentieth century. 
+Reurbanization: returning to the city.  
+Exurbanization: moving farther out from city while others move back in. 
+City-states: A city with political and economic control over the surrounding countryside. 
+Metropolitan area: an area where the population density is high and continuous.  
+MSA: In the United States, an urbanized area of at least 50,000 population, the county within which the city is located, and adjacent counties meeting one of several tests indicating a functional connection to the central city. 
+Micropolitan statistical area: An urbanized area of between 10,000 and 50,000 inhabitants, the county in which it is located, and adjacent counties tied to the city. Greater than 10,000, less than 50,000. 
+Nodal region: an area organized around a node or focal point. 
+Time-space compression: The reduction in the time it takes to diffuse something to a distant place because of improved communications and transportation system. 
+Borchert’s model: Five distinct periods in the history of American urbanization; each epoch is characterized by the impact of a particular transport technology on the creation and differential rates of growth of American cities. 
+Urban system: consists of a central city and its surrounding suburbs. 
+Gravity model: A model which holds that the potential use of a service at a particular location is related to the number of people in a location and inversely related to the distance people must travel to reach the service. 
+Rank-size rule: a pattern of settlement in a country such that the nth largest settlement is 1/n the population of the largest settlement. 
+Primate city: the largest settlement in a country, IF it has more than twice as many people as the second-ranking settlement. 
+Central place theory: a theory that explains the distribution of services, based on the fact that settlements serve as centers of market areas for services; larger settlements are fewer and farther apart than smaller settlements and provide services for a larger number of people who are willing to travel farther. 
+Central place: A market center for the exchange of services by people attracted from the surrounding area. 
+Market area: The area surrounding a central place from which people are attracted to use the place’s goods and services (also known as hinterland). 
+Hexagonal hinterland: a term that applies to a surrounding area served by an urban center. That center is the focus of goods and services produced for its hinterland and is its dominant urban influence as well. In the case of a port city, the hinterland also includes the inland area whose trade flows through the port. 
+Threshold: The minimum number of people needed to support the service. 
+Significance: Many service companies when thinking of a location will consider the threshold or the number of people that are needed for them to stay in business. 
+Range: the maximum distance people are willing to travel to use a service 
+Megacities: a recognized metropolitan area with a total population with or more than 10 million people. 
+Megalopolis: A continuous urban complex in the northeastern United States. 
+Conurbation: an extended urban area 
+Functional zones: area centered around a node or focal point.  
+Central Business District (CBD): The area of a city where retail and office activities are clustered. 
+Concentric zone model: According to this model, a city grows in a series of rings that surround the CBD: 1. CBD: The innermost ring, where nonresidential activities are concentrated 2. Zone in transition: Industry and poorer-quality housing; immigrants to the city first live in this zone in small dwelling units, frequently created by subdividing larger houses into apartments 3. Zone of working-class homes: Modest older houses occupied by stable, working-class families 4. Zone of better residences: Newer and more spacious houses for middle-class families 5. Commuters’ zone: Beyond the continuous built-up area of the city, where people live in small communities and commute to work in the CBD. 
+Burgess model: Burgess' concentric zone model is a description of the process of urban growth that views the city as a series of circular areas or zones, each characterized by a different type of land use that developed from a central core. 
+Sector model: According to this model, a city grows in a series of wedges or corridors, which extend out from the CBD. Certain areas of the city are more attractive for various activities, originally because of an environmental factor or even by mere chance. As a city grows, activities expand outward in a wedge, or sector, from the center. 
+Hoyt’s model: It is a model of urban land use conditioned by transportation routes radiating outward from a city center. 
+Multiple-nuclei model: According to this model, a city consists of a collection of individual nodes, or centers, around which diverse types of people and activities cluster. Examples of these nodes include a port, a neighborhood business center, a university, an airport, and a park. 
+Peripheral model: A model of North American urban areas consisting of an inner city surrounded by large suburban residential and business areas tied together by a beltway or ring road. 
+Galactic city model: The galactic city model represents a city with growth independent of the CBD that is traditionally connected to the central city by means of an arterial highway or interstate. 
+Edge cities: The nodes of consumer and business services around the beltway. Edge cities originated as suburban residences for people who worked in the central city, and then shopping malls were built to be near the residents. Now edge cities also contain business services. 
+Griffen-Ford Model: Combines elements of Latin American Culture and globalization by combining radial sectors and concentric zones. Includes a thriving CBD with a commercial spine. The quality of houses decreases as one moves outward away from the CBD, and the area of worse housing occurs in the disamenity sectors. 
+Shantytowns: Unplanned slum developments on the margins of cities, dominated by crude dwellings and shelters made mostly of scrap wood, iron, and even pieces of cardboard. 
+Favelas/barrios: a shantytown or slum, especially in Brazil. 
+Disamenity zones: The very poorest parts of cities that in extreme cases are not connected to regular city services and are controlled by gangs and drug lords. 
+Mosque: A Muslim place of worship. 
+McGee Model: Developed by geographer T.G. McGhee, a model showing similar land-use patterns among medium sized cities of Southeast Asia. Its focal point is the old colonial port zone. The model also does not find any CBD in Asia, but he found elements of the CBD present as separate clusters surrounding the port zone. 
+Urban planning: Urban planning is a sub-field of geography and until recently was part of pollution and build sustainable cities. 
+Residential zone: The areas of the city devoted to where people live rather than commercial or industrial functions. In North America, residential areas surrounding the CBD are known as the inner city. 
+Municipal: A city or town that has corporate status and local government 
+Annexation: Legally adding land area to a city in the United States. 
+Consolidation: Certain elements of the government are handled jointly, across numerous separate municipalities, while other elements of local government continue to be handled by individual municipalities. This is a solution to the problem of coordinating regional issues. 
+Unincorporated areas: Regions that do not fall within the legal boundaries of any city or municipality. Usually, a nearby municipality provides their services and administration, through a higher division of civil government. 
+Inner cities: the central area of a major city; in the US it often applied to the poorer parts of the city center where people are less educated and wealthy where there is more crime. 
+Culture of poverty: The general perceived culture of the poor population, associated with gangs, drugs, deadbeat dads, and minorities. 
+Brownfields: a property which has the presence or potential to be a hazardous waste, pollutant or contaminant. 
+Redlining: a process by which banks draw lines on a map and refuse to lend money to purchase or improve property within boundaries 
+Urban development/redevelopment: the process of redeveloping a city area by destroying and rebuilding it. 
+Eminent domain: The authority of a government to take private property when doing so serves the publics interests. 
+Gentrification: occurs when old inner-city housing is purchased at low prices and renovated for residents with higher income; often driving out the poor. 
+Scattered site: site in which dwellings are dispersed throughout the city rather than clustered in a large project. 
+Food deserts: An area that has a substantial number of low-income residents and has poor access to a grocery store, defined in most cases as further than 1 mile. 
+Blockbusting: a process by which real estate agents convince white property owners to sell their houses at low prices because of fear that black families will soon move into the neighborhood 
+Ghettos: during the Middle Ages, a neighborhood in a city set up by law to be inhabited only by Jews; now used to denote a section of a city in which members of any minority group live because of social, legal, or economic pressure 
+Informal economy: the production of marketable commodities that for various reasons escape enumeration, regulation, or any other sort of public monitoring or auditing. 
+Urban Heat Island: Is a metropolitan area which is significantly warmer than its surrounding rural areas.
+Urban sprawl: Unrestricted growth in many American urban areas of housing, commercial development, and roads over large expanses of land, with little concern for urban planning.
+Greenbelts: A ring of land maintained as parks, agricultural, or other types of open space to limit the sprawl of an urban area
+New urbanism: 1990s new urban planning movement that aims to prevent sprawl and create walkable neighborhoods to help the environment and economy.
+Counter-urbanization: Net migration from urban to rural areas in more developed countries.
+Exurbs: Small communities lying beyond the suburbs of a city.
+Urbanized area: an urban area with at least 50,000 inhabitants.
+Urban cluster: an urban area with between 2,500 and 50,000 inhabitants.
