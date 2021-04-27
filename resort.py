@@ -29,3 +29,5 @@ for i in finished_word:
 print("\n\n\n")
 for i in finished_def:
     print(i)
+print("This may not be to change the commit")
+print("help me dear lord")
