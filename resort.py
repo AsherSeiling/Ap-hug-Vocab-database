@@ -29,4 +29,3 @@ for i in finished_word:
 print("\n\n\n")
 for i in finished_def:
     print(i)
-print("THIS IS LITERLY JUST TO MERGE")
