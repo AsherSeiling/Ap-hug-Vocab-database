@@ -28,19 +28,20 @@ function toggle_stacking(){
 	};
 };
 
+function shortQuery(term){
+	terms = term.split(" ");
+	buffer = "";
+	for (i in terms){
+		buffer += terms[i];
+	}
+	return buffer.toLowerCase();
+}
 // Main function, executed on button press
 function main(){
 	// Get word in the input box
 	let term = $("#word_search").val();
-	// Take spaces out of term
-	let term_search = "";
-	for (i in term){
-		if (term[i] != " "){
-			term_search += term[i];
-		};
-	};
 	// Get the words index
-	let index1 = words.indexOf(term_search.toLowerCase());
+	let index1 = words.indexOf(shortQuery(term).toLowerCase());
 	// Adds the definition and the term to the ouput
 	// Check stacking
 	let template = term + " - " + definition[index1];
