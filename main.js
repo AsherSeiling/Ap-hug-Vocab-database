@@ -10,24 +10,6 @@ let definition = new Array();
 			definition = data.split("\n");
 	});
 
-// Variables needed for the global operation
-let output_buffer = "";
-let stacking = false;
-let dark_mode = false;
-let output = "";
-
-// Toggle stacking function
-function toggle_stacking(){
-	if (stacking == false){
-		stacking = true;
-		$("#toggle_stacking").css("background-color", "#ACD33F");
-	}
-	else{
-		stacking = false;
-		$("#toggle_stacking").css("background-color", "white");
-	};
-};
-
 function shortQuery(term){
 	terms = term.split(" ");
 	buffer = "";
@@ -36,39 +18,44 @@ function shortQuery(term){
 	}
 	return buffer.toLowerCase();
 }
+
+// Function to spit out answers similar to what is searched
+function search(textQ){
+	let request = shortQuery(textQ);
+	let index1 = [];
+	let len = request.length;
+	console.log(len);
+	for (i in words){
+		let x = words[i].slice(0, len);
+		console.log(x);
+		if (x == request){
+			index1.push(i);}
+	}
+	return index1;
+}
+
+function copyText(index){
+	let text1 = words[index] + " - " + definition[index];
+	navigator.clipboard.writeText(text1);
+}
+
 // Main function, executed on button press
 function main(){
 	// Get word in the input box
 	let term = $("#word_search").val();
-	// Get the words index
-	let index1 = words.indexOf(shortQuery(term).toLowerCase());
-	// Adds the definition and the term to the ouput
-	// Check stacking
-	let template = term + " - " + definition[index1];
-	let char_out = "<p style=\"font-family: 'Times New Roman', Times, serif;\">" + template  + "</p>";
-	if (stacking == false){
-		output = char_out;
-		output_buffer = template;
+	let indexR = 1;
+	let template = words[indexR] + " - " + definition[indexR];
+	let char_out = "";
+	let search_results = search(term);
+	console.log(search_results);
+	//let char_out = "<div id='output1'><p style=\"font-family: 'Times New Roman', Times, serif;\">" + template  + "</p><button onclick='copyText(" + indexR.toString() +");'>copy</button></div>";
+	for (i in search_results){
+		indexR = search_results[i];
+		template = words[indexR] + " - " + definition[indexR];
+		char_out += "<div id='output1'><p style=\"font-family: 'Times New Roman', Times, serif;\">" + template  + "</p><button onclick='copyText(" + indexR.toString() +");'>copy</button></div>";
 	}
-	else{
-		output += char_out;
-		output_buffer += template;
-	};
 	term_search = "";
 	// Ouputs the output
-	$("#Output").html(output);
-	check_toggle()
+	$("#Output").html(char_out);
 };
 
-function copy_text() {
-	let dummy = document.createElement("textarea");
-	// to avoid breaking orgain page when copying more words
-	// cant copy when adding below this code
-	// dummy.style.display = 'none'
-	document.body.appendChild(dummy);
-	//Be careful if you use texarea. setAttribute('value', value), which works with "input" does not work with "textarea". – Eduard
-	dummy.value = output_buffer;
-	dummy.select();
-	document.execCommand("copy");
-	document.body.removeChild(dummy);
-}
